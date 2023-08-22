@@ -2,7 +2,10 @@ This project works with openCV, and MediaPipe libraries to utilize the Hands com
 
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NiFCN40pqZ0" frameborder="0" allowfullscreen></iframe>
+
+https://github.com/cwcoogan/CV_poke_the_dots/assets/47133441/7a64fc52-6dcf-4d62-be97-56c6bf8d57cf
+
+
 
 ---
 How to play:
